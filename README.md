@@ -1,5 +1,8 @@
 # 📱 Personal Task Management App – Android
 
+[![Watch the video](https://img.youtube.com/vi/IJXkHi8KEJk/0.jpg)](https://youtube.com/shorts/IJXkHi8KEJk)
+
+
 ## 📌 Project Overview
 
 A personal task management app for Android, developed collaboratively by the squad. The app stores data locally using **Room Database** and implements **Jetpack Navigation** for seamless user flow. The project emphasizes a clean, justified architecture. Any unnecessary or unjustified complexity may negatively affect the project evaluation.
